@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
+// global props
 interface props {
     button: string;
   Span1: string;

@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
+// global props
 interface props {
   hg: number;
   span: string;

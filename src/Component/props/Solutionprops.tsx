@@ -3,6 +3,9 @@ import styled from "styled-components";
 import { HiArrowLongRight } from "react-icons/hi2";
 import Featuredprops from "./Featuredprops";
 
+
+
+// global props
 interface props {
   hg: number;
   span1: string;
